@@ -1,0 +1,12 @@
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe.config
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.pdb
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe.config
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\bin\Debug\TKNP_DeQui.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.csproj.AssemblyReference.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.csproj.CoreCompileInputs.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\TKNP_DeQui\obj\Debug\TKNP_DeQui.pdb

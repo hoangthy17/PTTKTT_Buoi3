@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6972FEF-BCBD-4CAE-9C01-F7E5CE3A5A01}|TongMang_KhongDeQui\\TongMang_KhongDeQui.csproj|d:\\pttktt_buoi3\\pttktt_buoi3\\consoleapplication1\\tongmang_khongdequi\\tongmang_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6972FEF-BCBD-4CAE-9C01-F7E5CE3A5A01}|TongMang_KhongDeQui\\TongMang_KhongDeQui.csproj|solutionrelative:tongmang_khongdequi\\tongmang_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0CBDAD-B5C5-4A50-B6A5-56DE6C9544E1}|ConsoleApplication1\\TongMang_DeQui.csproj|d:\\pttktt_buoi3\\pttktt_buoi3\\consoleapplication1\\consoleapplication1\\tongmang_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0CBDAD-B5C5-4A50-B6A5-56DE6C9544E1}|ConsoleApplication1\\TongMang_DeQui.csproj|solutionrelative:consoleapplication1\\tongmang_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112B88D5-FEF5-4F04-9701-8A242C851296}|TKNP_KhongDeQui\\TKNP_KhongDeQui.csproj|d:\\pttktt_buoi3\\pttktt_buoi3\\consoleapplication1\\tknp_khongdequi\\tknp_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112B88D5-FEF5-4F04-9701-8A242C851296}|TKNP_KhongDeQui\\TKNP_KhongDeQui.csproj|solutionrelative:tknp_khongdequi\\tknp_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D893BA4-71B4-4F5D-B9C3-6DEE7422E100}|TKNP_DeQui\\TKNP_DeQui.csproj|d:\\pttktt_buoi3\\pttktt_buoi3\\consoleapplication1\\tknp_dequi\\tknp_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D893BA4-71B4-4F5D-B9C3-6DEE7422E100}|TKNP_DeQui\\TKNP_DeQui.csproj|solutionrelative:tknp_dequi\\tknp_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE35103B-9053-4C25-B9A1-4EA6C3F77E02}|QuickSort\\QuickSort_DeQui.csproj|d:\\pttktt_buoi3\\pttktt_buoi3\\consoleapplication1\\quicksort\\quicksort_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE35103B-9053-4C25-B9A1-4EA6C3F77E02}|QuickSort\\QuickSort_DeQui.csproj|solutionrelative:quicksort\\quicksort_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TongMang_KhongDeQui.cs",
+              "DocumentMoniker": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TongMang_KhongDeQui\\TongMang_KhongDeQui.cs",
+              "RelativeDocumentMoniker": "TongMang_KhongDeQui\\TongMang_KhongDeQui.cs",
+              "ToolTip": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TongMang_KhongDeQui\\TongMang_KhongDeQui.cs",
+              "RelativeToolTip": "TongMang_KhongDeQui\\TongMang_KhongDeQui.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAD4vzgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:16:14.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TongMang_DeQui.cs",
+              "DocumentMoniker": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\ConsoleApplication1\\TongMang_DeQui.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\TongMang_DeQui.cs",
+              "ToolTip": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\ConsoleApplication1\\TongMang_DeQui.cs",
+              "RelativeToolTip": "ConsoleApplication1\\TongMang_DeQui.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:13:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TKNP_KhongDeQui.cs",
+              "DocumentMoniker": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TKNP_KhongDeQui\\TKNP_KhongDeQui.cs",
+              "RelativeDocumentMoniker": "TKNP_KhongDeQui\\TKNP_KhongDeQui.cs",
+              "ToolTip": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TKNP_KhongDeQui\\TKNP_KhongDeQui.cs",
+              "RelativeToolTip": "TKNP_KhongDeQui\\TKNP_KhongDeQui.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vzoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:10:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TKNP_DeQui.cs",
+              "DocumentMoniker": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TKNP_DeQui\\TKNP_DeQui.cs",
+              "RelativeDocumentMoniker": "TKNP_DeQui\\TKNP_DeQui.cs",
+              "ToolTip": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\TKNP_DeQui\\TKNP_DeQui.cs",
+              "RelativeToolTip": "TKNP_DeQui\\TKNP_DeQui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:05:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSort_DeQui.cs",
+              "DocumentMoniker": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\QuickSort\\QuickSort_DeQui.cs",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort_DeQui.cs",
+              "ToolTip": "D:\\PTTKTT_Buoi3\\PTTKTT_Buoi3\\ConsoleApplication1\\QuickSort\\QuickSort_DeQui.cs",
+              "RelativeToolTip": "QuickSort\\QuickSort_DeQui.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:05:14.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

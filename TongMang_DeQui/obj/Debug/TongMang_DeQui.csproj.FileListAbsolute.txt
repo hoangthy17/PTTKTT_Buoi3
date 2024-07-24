@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\TongMang_DeQui.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\TongMang_DeQui.csproj.AssemblyReference.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\TongMang_DeQui.csproj.CoreCompileInputs.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

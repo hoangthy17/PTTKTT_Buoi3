@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.exe.config
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.pdb
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort_DeQui.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.exe.config
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\bin\Debug\QuickSort.pdb
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort_DeQui.csproj.AssemblyReference.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort_DeQui.csproj.CoreCompileInputs.cache
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort.exe
+D:\PTTKTT_Buoi3\PTTKTT_Buoi3\ConsoleApplication1\QuickSort\obj\Debug\QuickSort.pdb
